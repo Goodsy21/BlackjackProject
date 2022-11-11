@@ -1,0 +1,11 @@
+# BLACKJACK PROJECT
+
+## DESCRIPTION
+
+
+## TECHNOLOGIES USED
+GitHub
+Eclipse
+Google
+
+## LESSONS LEARNED# BlackjackProject
