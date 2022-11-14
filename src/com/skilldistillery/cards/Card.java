@@ -31,7 +31,7 @@ public class Card {
 	}
 	@Override
 	public String toString() {
-		return "Card [rank=" + rank + ", suit=" + suit + ", getValue()=" + getValue() + "]";
+		return "" + " has " + rank + " of " + suit  + "";
 	}
 	
 	
